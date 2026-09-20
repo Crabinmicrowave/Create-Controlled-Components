@@ -1,0 +1,5 @@
+{
+  "itemGroup.controlled_components": "Example Mod Tab",
+  "block.controlled_components.example_block": "Example Block",
+  "item.controlled_components.example_item": "Example Item"
+}
