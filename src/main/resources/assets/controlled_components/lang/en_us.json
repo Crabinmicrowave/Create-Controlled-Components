@@ -1,5 +1,6 @@
 {
-  "itemGroup.controlled_components": "Example Mod Tab",
-  "block.controlled_components.example_block": "Example Block",
-  "item.controlled_components.example_item": "Example Item"
+  "block.controlled_components.rotation_sensor": "Rotation Sensor",
+
+  "controlled_components.kinetics.rotation_sensor.min_rotation_speed": "Minimum Rotation Speed",
+  "itemGroup.controlled_components.controlled_components": "Controlled Components"
 }
